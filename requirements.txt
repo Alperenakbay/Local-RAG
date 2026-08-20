@@ -1,0 +1,8 @@
+openai
+python-dotenv
+faiss-cpu
+numpy
+sentence-transformers
+rank_bm25
+pypdf
+torch
